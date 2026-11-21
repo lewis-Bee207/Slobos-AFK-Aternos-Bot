@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "Bee Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "beebot",
     "password": "",
     "type": "offline"
   },
@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
+      "enabled": false,
+      "password": "bee123"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "join my server"
       ]
     },
     "chat-log": true,
